@@ -1,0 +1,2 @@
+# JsSrtingMethods
+string methods
